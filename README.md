@@ -2,6 +2,6 @@
 
 # Primo's F.C
 
-Deploy v0.1 https://primosfc.netlify.app/
+Deploy v0.2 https://primosfc.netlify.app/
 
 ### Projeto desenvolvido para o time de futebol society Primo's F.C
